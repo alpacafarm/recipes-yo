@@ -1,0 +1,5 @@
+arrow-parens: always
+jsx-single-quote: true
+print-width: 120
+semi: false
+single-quote: true
